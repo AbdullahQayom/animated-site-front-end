@@ -1,3 +1,4 @@
+/* Animation that fades in an element while smoothly sliding it up from 40px below its final position — perfect for entrance effects on load or scroll */
 @keyframes fadeUp {
   from {
     opacity: 0;
