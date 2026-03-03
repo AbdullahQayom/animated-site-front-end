@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <nav className="fixed top-0 w-full z-50 px-10 py-6 flex justify-center gap-20 text-white uppercase tracking-wide">
+    <nav className="fixed top-0 w-full z-50 px-10 py-6 flex justify-center gap-20 text-white text-2xl font-semibold uppercase tracking-wide">
       <span>Home</span>
       <span>Products</span>
       <span>Services</span>

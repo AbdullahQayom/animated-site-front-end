@@ -47,7 +47,7 @@ const Hero = () => {
         viewport={{ once: true, amount: 0.3 }}
         transition={{ duration: 0.8, delay: 0.3 }}
       >
-        <img src={heroImg} className="w-full object-contain" />
+        <img src={heroImg} className="w-full object-contain rounded-2xl" />
       </motion.div>
 
     </section>

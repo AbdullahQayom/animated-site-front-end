@@ -7,10 +7,10 @@ const Footer = () => {
 
       {/* Top Navigation Links */}
       <div className=" text-3xl  mx-auto flex flex-wrap justify-center gap-16 mb-30">
-        <span className="hover:underline cursor-pointer">Help</span>
-        <span className="hover:underline cursor-pointer">About Us</span>
-        <span className="hover:underline cursor-pointer">Company</span>
-        <span className="hover:underline cursor-pointer">Service</span>
+        <span className="cursor-pointer">Help</span>
+        <span className="cursor-pointer">About Us</span>
+        <span className="cursor-pointer">Company</span>
+        <span className="cursor-pointer">Service</span>
       </div>
 
       {/* Download Section (Centered) */}
